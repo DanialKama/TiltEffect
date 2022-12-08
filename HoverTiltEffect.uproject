@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"EngineAssociation": "5.1",
-	"Category": "",
-	"Description": "",
+	"Category": "UI",
+	"Description": "Tilt effect on mouse over",
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
