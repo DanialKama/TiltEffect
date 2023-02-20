@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "TiltEffect",
+	"Description": "JavaScript tilt effect",
+	"Category": "UI",
+	"CreatedBy": "Danial Kamali",
+	"CreatedByURL": "https://github.com/DanialKama",
+	"DocsURL": "https://github.com/DanialKama/TiltEffect.git",
+	"MarketplaceURL": "",
+	"SupportURL": "https://discord.com/users/810853382193545227",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "TiltEffect",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
