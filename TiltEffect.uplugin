@@ -1,8 +1,8 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
-	"FriendlyName": "TiltEffect",
+	"VersionName": "1.5.1",
+	"FriendlyName": "Tilt Effect",
 	"Description": "JavaScript tilt effect",
 	"Category": "UI",
 	"CreatedBy": "Danial Kamali",
