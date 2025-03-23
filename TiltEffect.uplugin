@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.5.3",
+	"VersionName": "1.6",
 	"FriendlyName": "Tilt Effect",
 	"Description": "JavaScript tilt effect",
 	"Category": "UI",
@@ -14,12 +14,20 @@
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Modules": [
 		{
 			"Name": "TiltEffect",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64"
+			],
+			"PlatformDenyList": [
+				"IOS",
+				"Linux",
+				"Android"
+			]
 		}
 	]
 }
